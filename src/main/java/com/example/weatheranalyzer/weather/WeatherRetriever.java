@@ -18,8 +18,8 @@ import com.google.gson.JsonParser;
  */
 public class WeatherRetriever {
 
-    private static final String weatherApiKey = "3374391c7cmsh6de795e7cabb2b4p104144jsn4803496571b6";
-    private static final String geoApiKey = "AIzaSyADC7jizwhj1WueDP20-PwYcHQYOUsBg3E";
+    private static final String weatherApiKey = "{API-Key}";
+    private static final String geoApiKey = "{API-Key}";
 
 
     /**
